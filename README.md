@@ -4,4 +4,6 @@ Some Description for Demo
 
 ## Subheader
 
-Additioanl Text
+Additional Text
+
+fixing some typos...
